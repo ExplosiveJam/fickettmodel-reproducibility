@@ -5,7 +5,7 @@ import os
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
-from saf.fm.linear import Reader
+from saf.ffm.linear import Reader
 
 from helpers import FIGSIZE_TWO_SUBPLOTS_TWO_ROWS as figsize
 from helpers import savefig

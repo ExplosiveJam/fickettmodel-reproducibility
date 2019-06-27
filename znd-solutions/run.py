@@ -5,7 +5,7 @@ import multiprocessing as mp
 import shutil
 
 from saf.action import solve
-from saf.fm.linear import Config
+from saf.ffm.linear import Config
 
 Q = 4
 
